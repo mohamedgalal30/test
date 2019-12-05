@@ -1,4 +1,3 @@
-
 # Jira Task URL: 
 **_#ADD LINK TO PIVOTAL STORY_**
 
