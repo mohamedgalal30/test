@@ -9,8 +9,9 @@ _#ADD ANY RELATED PULL REQUESTS_
 
 ### Description:
 
-Please include a summary of the change and which issue is fixed. 
-Please also include relevant context. List any dependencies that are required for this change.
+_Please include a summary of the change and which issue is fixed._
+_Please also include relevant context._
+_List any dependencies that are required for this change._
 
 ### Checklist:
 
