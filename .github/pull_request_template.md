@@ -1,82 +1,23 @@
-### All Submissions:
+# Jira Task URL: 
+**_#ADD LINK TO PIVOTAL STORY_**
 
-* [ ] Have you followed the guidelines in our Contributing document?
-* [ ] Have you checked to ensure there aren't other open [Pull Requests](../../../pulls) for the same update/change?
-
-<!-- You can erase any parts of this template not applicable to your Pull Request. -->
-
-### New Feature Submissions:
-
-1. [ ] Does your submission pass tests?
-2. [ ] Have you lint your code locally prior to submission?
-
-### Changes to Core Features:
-
-* [ ] Have you added an explanation of what your changes do and why you'd like us to include them?
-* [ ] Have you written new tests for your core changes, as applicable?
-* [ ] Have you successfully ran tests with your changes locally?
-
-
-# <Feature Title>
-
-Tracker ID: **_#ADD LINK TO PIVOTAL STORY_**
-
-Unit tests completed?: (Y/N)
-
-PR Branch
+# PR Branch: 
 **_#ADD LINK TO PR BRANCH_**
 
-Code Coverage & Build Info
-**_#ADD LINK TO JENKINS CONSOLE_**
-
-E2E Approved
-**_#ADD LINK TO PASSING E2E TESTS_**
-
-Windows Testing
-**_#HAS WINDOWS BEEN TESTED?_**
-
-Related PR
+# Related PRs:
 **_#ADD ANY RELATED PULL REQUESTS_**
 
-UX Approved
-**_#ADD UX APPROVAL IF NEEDED_**
+# Description:
 
-
-# Description
-
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
-
-Fixes # (issue)
-
-## Type of change
-
-Please delete options that are not relevant.
-
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
-
-# How Has This Been Tested?
-
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
-
-- [ ] Test A
-- [ ] Test B
-
-**Test Configuration**:
-* Firmware version:
-* Hardware:
-* Toolchain:
-* SDK:
+Please include a summary of the change and which issue is fixed. 
+Please also include relevant context. List any dependencies that are required for this change.
 
 # Checklist:
 
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
-- [ ] Any dependent changes have been merged and published in downstream modules
+- [ ] My code follows the style guidelines of this project.
+- [ ] I have performed a self-review of my own code.
+- [ ] I have commented my code, particularly in hard-to-understand areas.
+- [ ] I have added tests that prove my fix is effective or that my feature works.
+- [ ] New and existing unit tests pass locally with my changes.
+- [ ] I have made PR in Any dependent changes in their repos.
+- [ ] I Have lint my code locally prior to submission.
