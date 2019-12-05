@@ -1,11 +1,11 @@
 ### Jira Task URL: 
-**_#ADD LINK TO PIVOTAL STORY_**
+_#ADD LINK TO PIVOTAL STORY_
 
 ### PR Branch: 
-**_#ADD LINK TO PR BRANCH_**
+_#ADD LINK TO PR BRANCH_
 
 ### Related PRs:
-**_#ADD ANY RELATED PULL REQUESTS_**
+_#ADD ANY RELATED PULL REQUESTS_
 
 ### Description:
 
