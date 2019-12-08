@@ -23,5 +23,5 @@ _List any dependencies that are required for this change._
 - [ ] I have lint my code locally prior to submission.
 
 ### Reviewer Checklist:
-- [ ] I have review th PR locally
-- [ ] I have ran the PR and test it.
+- [ ] I have reviewed the PR locally
+- [ ] I have ran the PR and tested it.
