@@ -1,9 +1,9 @@
-on: [pull_request]
-name: "Set status on pull_request"
+name: "Pull Request Labeler"
+on:
+  - pull_request
 
 jobs:
-  wip:
-    name: "Set status"
+  wip-label:
     runs-on: ubuntu-latest
     steps:
-      - uses: wip/action@master
+      - uses: actions/labeler@v2
