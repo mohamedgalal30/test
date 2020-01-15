@@ -1,2 +1,4 @@
 wip:
-  - ./*
+  - '**'      # main.go | src/any.go
+  - '.*'      # .gitignore
+  - '.*/**'   # .github/workflows/labeler.yml
